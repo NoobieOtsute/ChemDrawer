@@ -1,3 +1,3 @@
-# CHEMDRAWER
+# chem-draw
 
-**CHEMDRAWER** is a GUI based application that produce display formula and skeletal structure of a given specie's IUPAC name.
+chem-draw is my experiments with PyQT5 and [RSC API](https://developer.rsc.org/), which provides access to ChemSpider data. The application will take an IUPAC name of a chemical compound and query the database for information relating to that compound.
